@@ -1,11 +1,6 @@
 # activemq-mysql-mongo-sync
 Real-time data sync between MySQL and MongoDB using Apache ActiveMQ (STOMP) — Node.js producer + Python consumer
 
-
-# ActiveMQ + MySQL + MongoDB — Sync Pipeline
-
-Real-time data synchronization between MySQL and MongoDB via Apache ActiveMQ.
-
 ## Architecture
 
 ```
